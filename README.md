@@ -6,7 +6,7 @@
 
 <br/>
 <div align="center">
-  🔭I am currently working on **Sign Language Detection**
+  🔭I am currently working on __Sign Language Detection__
   <br/>
   🌼I am currently learning **Linux,SQL,DSA**
   <br/>
