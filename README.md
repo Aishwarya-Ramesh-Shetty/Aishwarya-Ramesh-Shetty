@@ -1,7 +1,10 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aishwarya+Shetty!;" />
 </h1>
-
+<br/>
+<div align="center">
+   <img src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898500.jpg?t=st=1742630097~exp=1742633697~hmac=fd40bfe5aa07aa759212b8335517169ab2a0441d845855116cb8830fbbe1be00&w=740" alt="girl coding image">
+</div>
 <h3 align="center">A passionate Software Developer</h3>
 
 <br/>
